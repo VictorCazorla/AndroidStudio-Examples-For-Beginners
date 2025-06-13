@@ -38,7 +38,6 @@ It's a perfect starting point for those new to Android app development.
 | 07  | 07_Intents_Implicitos_Y_Mas.zip | Implicit Intents and more           |
 | 08  | 08_PreferencesDataStore.zip | Preferences with DataStore             |
 | 09  | 09_PasoDeObjetos.zip        | Passing objects between Activities     |
-| 10  | 10_BD_Room.zip              | Room database basics                   |
 | 11  | 11_BD_Room_v2.zip           | Advanced Room database                 |
 | 13  | 13_FAB_Notifications.zip    | Floating Action Button & Notifications |
 | 14  | 14_Toolbar.zip              | Custom Toolbar                        |
